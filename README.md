@@ -14,15 +14,13 @@ Impact of features like screen size, resolution, and smart functionality
 
 The goal is to derive insights that help improve product positioning, pricing strategy, and customer satisfaction.
 
-🛠️ Tools & Technologies Used:
-
+🛠️ Tools & Technologies Used
 Python
 Pandas, NumPy → Data Cleaning & Processing
 Matplotlib, Seaborn → Data Visualization
 BeautifulSoup, Requests, Regex → Web Scraping
 Jupyter Notebook → Analysis
 🌐 Data Collection
-
 Data scraped from Flipkart using Python
 Extracted features:
 Brand
@@ -34,7 +32,6 @@ Sound Output
 Product Type
 Raw data was cleaned and transformed into structured format for analysis
 🧹 Data Cleaning & Preparation
-
 Removed null and inconsistent values
 Standardized numerical fields (Price, Ratings, Screen Size)
 Cleaned text data using Regular Expressions
@@ -82,7 +79,10 @@ Inconsistent HTML structure during scraping
 Handling missing and noisy data
 Converting text-based features into numerical formats
 Cleaning and standardizing multiple attributes
-
 📌 Conclusion
+
 This project demonstrates how data analysis can uncover meaningful insights into customer preferences and pricing strategies in the e-commerce electronics market.
+
 It highlights the importance of data-driven decision-making in optimizing product offerings and improving business outcomes.
+
+🔗 Connect With Me
